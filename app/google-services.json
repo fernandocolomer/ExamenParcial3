@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "527272877221",
+    "firebase_url": "https://examenparcial3-6dcad-default-rtdb.firebaseio.com",
+    "project_id": "examenparcial3-6dcad",
+    "storage_bucket": "examenparcial3-6dcad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527272877221:android:213ea927e2f1509e42814c",
+        "android_client_info": {
+          "package_name": "com.aplicacion.examenparcial3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527272877221-ejn7i9dnb34eahehgq14021k589vhls0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aplicacion.examenparcial3",
+            "certificate_hash": "ae8e0e5b79d10630de003340181b4c23282fef30"
+          }
+        },
+        {
+          "client_id": "527272877221-3m0s15evsuqjvon6a2k99l16b6f97e10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiD5t8touo8tQhXTJg1Hn5m9SOqr63D3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527272877221-3m0s15evsuqjvon6a2k99l16b6f97e10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

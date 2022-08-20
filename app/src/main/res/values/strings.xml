@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExamenParcial3</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="cantidad">CANTIDAD</string>
+    <string name="tiempo">TIEMPO</string>
+    <string name="periocidad">PERIOCIDAD</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="periocidadS">PERIOCIDAD</string>
+</resources>
